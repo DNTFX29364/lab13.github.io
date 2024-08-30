@@ -1,0 +1,32 @@
+/* @media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+} */
+
+.navbar-brand {
+  color: blue;
+}
+
+/* .container {
+  display: grid;
+  grid-template-columns: 15% 10% 10% 85%;
+} */
+
+.bg-img1 {
+  background-image: url(https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/hay-tu-hao-voi-qua-trinh-cua-minh-ban-nhe-.jpg);
+  background-color: #000;
+  background-size: cover;
+}
+
+.bg-img2 {
+  background-image: url(https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/ban-thich-mau-xanh-hay-yeu-noi-buon.jpg);
+  background-color: #000;
+  background-size: cover;
+}
+
+.bg-img3 {
+  background-image: url(https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/don-gian-la-dinh-cao-cua-su-phuc-tap.jpg);
+  background-color: #000;
+  background-size: cover;
+}
